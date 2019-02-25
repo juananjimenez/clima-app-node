@@ -1,0 +1,18 @@
+{
+  "name": "clima-mundo",
+  "version": "1.0.0",
+  "description": "Aplicación sobre clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clima"
+  ],
+  "author": "Juanan Jiménez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.5"
+  }
+}
